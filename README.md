@@ -7,7 +7,7 @@ A Markdown edition of the *[Catechism of Saint Pius X](https://en.wikipedia.org
 
 Intended for use in individual studies.
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to EWTN for the full text of the Catechism of Saint Pius X, which I translated to Markdown. 
 https://www.ewtn.com/catholicism/library/catechism-of-st-pius-x-1286
