@@ -1,6 +1,6 @@
 # Catechism of Saint Pius X
 
-A Markdown edition of the *[Catechism of Saint Pius X](https://en.wikipedia.org/wiki/Catechism_of_Saint_Pius_X)*, a simple, straightforward primer of the Catholic faith. 
+The *[Catechism of Saint Pius X](https://en.wikipedia.org/wiki/Catechism_of_Saint_Pius_X)*, a simple, straightforward primer of the Catholic faith in Markdown. 
 
 Intended for use in individual studies.
 
